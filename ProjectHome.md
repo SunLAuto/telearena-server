@@ -1,0 +1,2 @@
+tele-arena is a text based fantasy rpg (mud) from the 90's that was created for the major-bbs/worldgroup platform for dos.
+this server allows you to host your very own game without the need of any bbs software in a highly customizable lightweight game and server engine under windows, Linux, os x, or FreeBSD.
